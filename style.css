@@ -1,9 +1,19 @@
 body {
-  background-color: lightgray;
+  background-color: rgb(158, 217, 231);
 }
 
 p {
   text-align: center;
   font-size: 60px;
   margin-top: 0px;
+}
+
+h1 {
+  text-align: center;
+  color: red;
+  font-weight: bolder;
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px;
+  border-radius: 1em;
 }
